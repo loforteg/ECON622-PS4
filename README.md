@@ -1,6 +1,7 @@
 # ECON 622 - PS 4
 
 In this repository I am uploading all the exercises regarding GitHub in Problem Set 4 of the course ECON 622: Computational Economics with Data Science Applications.
+
 You can find more material about this on [QuantEcon-VersionControl](https://julia.quantecon.org/more_julia/version_control.html).
 
 
