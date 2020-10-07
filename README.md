@@ -21,6 +21,7 @@ This exercise is about collaborating with people, assigning each other issues, a
 ## Exercise 1c -- ''Git, GitHub, and Version Control''
 In this exercise we are going to tackle the possible issues arising when two collaborators modify the same file. :-D
 
+# I am trying to show something :)
 
 ----
 To see some steps I have followed in order to complete these exercises, check the [Screenshot-Evidence](https://github.com/loforteg/ECON622-PS4/tree/master/Screenshot-Evidence) folder.
