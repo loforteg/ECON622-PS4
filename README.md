@@ -5,7 +5,11 @@ In this repository I'm uploading all the exercises regarding GitHub in Problem S
 You can find more material about this on [QuantEcon - Version Control](https://julia.quantecon.org/more_julia/version_control.html).
 
 
+<<<<<<< HEAD
 It's my first time using GitHub: fingers crossed!!!
+=======
+It is my first time using GitHub. Fingers crossed!
+>>>>>>> 17343b923428816ffd5d030813e5cb161e24730c
 
 
 ## Exercise 1a -- ''Git, GitHub, and Version Control''
