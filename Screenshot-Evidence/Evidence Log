@@ -6,29 +6,29 @@ I have paired with Pablo Valenzuela for this exercise, who now is my collaborato
 
 I have cloned his repository on my local Desktop:
 
-![alt text](https://github.com/loforteg/ECON622-PS4/blob/master/Screenshot-Evidence/Evidence-cloning.PNG "Cloning")
+![Cloning](https://github.com/loforteg/ECON622-PS4/blob/master/Screenshot-Evidence/Evidence-cloning.PNG)
 
-![alt text](https://github.com/loforteg/ECON622-PS4/blob/master/Screenshot-Evidence/Evidence-cloned.PNG "Cloned")
+![Cloned](https://github.com/loforteg/ECON622-PS4/blob/master/Screenshot-Evidence/Evidence-cloned.PNG)
 
 We have assigned each other an issue. The one he assigned me on this repository can be find among the Closed issues [here](https://github.com/loforteg/ECON622-PS4/issues?q=is%3Aissue+is%3Aclosed).
 
 I have modified my code according to the issue raised by Pablo:
-![alt text](https://github.com/loforteg/ECON622-PS4/blob/master/Screenshot-Evidence/Evidence-modification.PNG "Modification for issue#1")
+![Modification](https://github.com/loforteg/ECON622-PS4/blob/master/Screenshot-Evidence/Evidence-modification.PNG)
 
 I have run Pablo's code on my computer, and it works.
 
 For point c, I have successfully merged Pablo's pull request without conflicts:
-![alt text](https://github.com/loforteg/ECON622-PS4/blob/master/Screenshot-Evidence/Evidence-no%20conflict.PNG "No conflict")
+![NoConflict](https://github.com/loforteg/ECON622-PS4/blob/master/Screenshot-Evidence/Evidence-no%20conflict.PNG)
 
 I have then modified the same line Pablo did on my readme file, in order to generate a conflict:
 
-![alt text](https://github.com/loforteg/ECON622-PS4/blob/master/Screenshot-Evidence/Evidence-1c-pt1.PNG "Generating conflict")
+![GeneratingConflict](https://github.com/loforteg/ECON622-PS4/blob/master/Screenshot-Evidence/Evidence-1c-pt1.PNG)
 
-![alt text](https://github.com/loforteg/ECON622-PS4/blob/master/Screenshot-Evidence/Evidence-conflict%20generated.PNG "Conflict generated")
+![ConflictGenerated](https://github.com/loforteg/ECON622-PS4/blob/master/Screenshot-Evidence/Evidence-conflict%20generated.PNG)
 
 I have also added a pull request on Pablo's repository, which did not generated a conflict: 
-![alt text](https://github.com/loforteg/ECON622-PS4/blob/master/Screenshot-Evidence/Evidence-pull%20request.PNG "Pull request")
+![PullRequest](https://github.com/loforteg/ECON622-PS4/blob/master/Screenshot-Evidence/Evidence-pull%20request.PNG)
 
 Then, I have generated a conflict on Pablo's repository:
-![alt text](https://github.com/loforteg/ECON622-PS4/blob/master/Screenshot-Evidence/Evidence-conflict%20with%20Pablo.PNG "Conflict on Pablo")
+![ConflictPablo](https://github.com/loforteg/ECON622-PS4/blob/master/Screenshot-Evidence/Evidence-conflict%20with%20Pablo.PNG)
 
