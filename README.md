@@ -11,7 +11,7 @@ It's my first time using GitHub; fingers crossed!
 ## Exercise 1a - Git, GitHub, and Version Control
 Exercise 1a is all about creating a repository.
 
-## Exercise 1b - Git, GitHub, and Version Control
+## Exercise 1b - ``Git``, GitHub, and Version Control
 This exercise is about collaborating with people, assigning each other issues, and modifying your files accordingly.
 
 ## Exercise 1c - Git, GitHub, and Version Control
